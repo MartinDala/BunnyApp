@@ -5,8 +5,12 @@ Gerenciamento de Coelhos
 ## About App
 
 Este é uma app de gerenciamento de coelhos
+This is a rabbit management app
 
-<img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/screen%20(1).png" width="250"> | <img src="https://raw.githubusercontent.com/MartinDala/NaBandaApp/main/assets/Screenshot_1647851103.png" width="250">|
+
+<img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/SplashScreen.png" width="250"> 
+| <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/Home.png" width="250">|
+| <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/screen%20(2).png" width="250">|
 ## Stacks
 
 Flutter/Dart
@@ -15,26 +19,22 @@ Arquitectura de Projectos: MVC
 
 ## Extrutura das Pastas
 
-Componentização de Widgets
-✔api <br>
-✔app <br>
-✔components <br>
-✔controllers <br>
-✔models <br>
-✔repository <br>
-✔routes <br>
-✔services <br>
-✔util <br>
-✔views <br>
+🧩api <br>
+🧩app <br>
+🧩components <br>
+🧩controllers <br>
+🧩models <br>
+🧩repository <br>
+🧩routes <br>
+🧩services <br>
+🧩util <br>
+🧩views <br>
 --homepage <br>
 --edited <br>
 --login <br>
 --registers <br>
 ✔widgets <br>
 
-## Gerenciamento de Estado
-
-✔GetX - State Managment
 
 ## Feactures
 
