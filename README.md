@@ -4,7 +4,7 @@ Gerenciamento de Coelhos
 
 ## About App
 
-Este é uma app de gerenciamento de coelhos
+Este é uma app de gerenciamento de coelhos <br>
 This is a rabbit management app
 
 
