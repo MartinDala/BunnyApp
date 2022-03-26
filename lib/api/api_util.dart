@@ -1,7 +1,5 @@
 class API {
-  static String REQUEST_IMG(String img) =>
-      'https://image.tmdb.org/t/p/w500$img';
-
+ 
   static const REQUEST_COELHO_LIST_BY_ID = 'getById';
   static const REQUEST_COELHO_LIST_BY_CATEGORY = 'getByCategoria';
   static const REQUEST_STATICS = 'getEstatistica';
