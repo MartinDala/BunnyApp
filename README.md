@@ -9,8 +9,7 @@ This is a rabbit management app
 
 
 <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/SplashScreen.png" width="250"> 
-| <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/Home.png" width="250">|
-| <img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/screen%20(2).png" width="250">|
+<img src="https://raw.githubusercontent.com/MartinDala/BunnyApp/main/assets/screenshot/Home.png" width="250">|
 ## Stacks
 
 Flutter/Dart
